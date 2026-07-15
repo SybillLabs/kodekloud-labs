@@ -1,88 +1,31 @@
-🎯 KodeKloud
+<h1 align="center">🎯 KodeKloud</h1>
 
 ## 🧭 Périmètre et contexte
 
 ### 🎓 Périmètre de travail
-
-Ce dépôt regroupera mes **solutions** et **notes** relatives à KodeKloud. Il se concentre sur les axes suivants :
-- Docker
-- Kubernetes
-- Azure
-- AWS
-- Git
-
-Ces axes de travail permettent de renforcer mes compétences en outils et pratiques **DevOps** et **Cloud**, ainsi qu'en sécurité opérationnelle (axe DevSecOps) appliquée aux pipelines, à l'infrastructure et à l'orchestration.
+Ce dépôt centralise l’ensemble de mes travaux réalisés sur la plateforme **KodeKloud**, dans le cadre de ma montée en compétences DevOps.  
+Il sert de **point d’entrée unique** vers les différents labs, crash courses et modules que j’ai étudiés.
 
 ### 🧑‍💼 Contexte professionnel
+Actuellement **Technicienne Systèmes & Réseaux Junior**, je construis un portfolio DevOps structuré, harmonieux et fidèle à ma méthodologie de travail.
+Ce dépôt permet aux recruteurs et aux pairs d’accéder rapidement à mes travaux pratiques, sans naviguer dans une multitude de dépôts.
 
-J'utilise ces plateformes interactives dans le cadre de mon parcours vers l’ingénierie **DevOps** (avec un axe DevSecOps), en m’appuyant sur un passif **Système et Réseau**. Le dépôt est conçu comme un **rapport documenté** de mes activités et résultats, et non comme un tutoriel.
+### 🔍 Méthodologie de travail
+- Approche **modulaire** : un dépôt par module ou par lab consistant.
+- Documentation **minimaliste**, claire et reproductible.
+- Mise en avant des **labs pratiques** plutôt que des cours théoriques.
+- Priorité à la **cohérence**, à la **lisibilité**, et à la **valorisation des compétences**.
 
----
-
-## 📁 Organisation du dépôt
-
-```text
-KodeKloud/
-├── README.md
-├── labs/          # Dossiers thématiques pour chaque axe de travail
-│   ├── docker/
-│   ├── kubernetes/
-│   ├── azure/
-│   ├── aws/
-│   └── git/
-├── scripts/       # Scripts et utilitaires développés
-└── ressources/    # Références et documentation complémentaire
-```
-
----
-
-## 🔗 Les liens
-
-### 🗂️ Les activités
-
-Cette section référence l’accès rapide à chaque **sous-dossier** et à son **sommaire**, afin de structurer la navigation entre les activités.
-
-- [Docker](labs/docker/sommaire.md)
-- [Kubernetes](labs/kubernetes/sommaire.md)
-- [Azure](labs/azure/sommaire.md)
-- [AWS](labs/aws/sommaire.md)
-- [Git](labs/git/sommaire.md)
-
-### 🌐 Ressources officielles
-
-Cette section centralise les liens vers les plateformes officielles des wargames, pour un accès direct aux défis.
-
-- [KodeKloud Labs](https://www.kodekloud.com/)
-- [Documentation Docker](https://docs.docker.com/)
-- [Documentation Kubernetes](https://kubernetes.io/docs/)
-- [Documentation Azure](https://docs.microsoft.com/azure/)
-- [Documentation AWS](https://aws.amazon.com/documentation/)
-- [Documentation Git](https://git-scm.com/doc)
-
----
-
-## 📈 Progressions et statistiques
-
-| Statut | Nombre | Progression |
-|--------|--------|-------------|
-| ✅ Challenges en cours | 0 | - |
-| 🔄 En Cours | 0 | - |
-| ⏳ À Explorer | - | - |
-| 📊 Taux de Réussite | - | - |
-
-> **Note** : Ce tableau sera mis à jour régulièrement au fur et à mesure de la progression.
-
----
+## 🔗 Labs KodeKloud
+> Chaque lien ci-dessous pointe vers un dépôt dédié contenant les labs associés (dépôt par module ou dépôt par lab selon la complexité).
 
 ## ⚠️ Disclaimer
 
-Les contenus publiés ici reflètent des travaux personnels réalisés lors d'exercices pratiques. Ils ont pour but de documenter des démarches et des résultats techniques ; ils ne prétendent pas remplacer la documentation officielle des fournisseurs.
+- Ce dépôt a une vocation **personnelle**.
+- Les contenus publiés sont destinés à documenter mes travaux et ne doivent être utilisés qu’à des fins d’apprentissage.
+- Aucun mot de passe, fichier protégé ou contenu confidentiel n’est publié.
+- Plateforme : https://kodekloud.com
 
 ---
 
-**Dernière mise à jour** : 05/06/2026 
-**Statut** : 🟢 Actif et en développement
-
----
-
-[![Profil](https://img.shields.io/badge/Back%20to-SybillLabs%20(Profil)-blue?style=social&logo=github)](https://github.com/SybillLabs)
+<p align="center">  <i>📍 From <a href="https://github.com/SybillLabs">SybillLabs</a></i></p>
