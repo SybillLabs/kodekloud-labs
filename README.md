@@ -18,6 +18,8 @@ Ce dépôt permet aux recruteurs et aux pairs d’accéder rapidement à mes tra
 
 ## 🔗 Labs KodeKloud
 > Chaque lien ci-dessous pointe vers un dépôt dédié contenant les labs associés (dépôt par module ou dépôt par lab selon la complexité).
+- **[KodeKloud Crash Courses](https://github.com/SybillLabs/kodekloud-crash-course.git)**  
+    Compte rendu sur les Crash Courses KodeKloud (Docker, Kubernetes, AWS, AI-Powered DevOps, MCP), avec preuves d’exécution et notes de labs.
 
 ## ⚠️ Disclaimer
 
