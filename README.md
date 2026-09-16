@@ -1,4 +1,6 @@
-<h1 align="center">🎯 KodeKloud</h1>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=4666D8&text=KodeKloud%20Labs&reversal=false&fontColor=46AED8" alt="Header"/>
+</p>
 
 ## 🧭 Périmètre et contexte
 
