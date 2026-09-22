@@ -1,5 +1,9 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=4666D8&text=KodeKloud%20Labs&reversal=false&fontColor=46AED8" alt="Header"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=4666D8&text=KodeKloud%20Labs&reversal=false&fontColor=46AED8" alt="Header"/>
+</p>
+
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0087&width=435&lines=Initiation+DevOps+%26+Cloud;Conteneurisation+%26+Orchestration" alt="Typing SVG" /></a>
 </p>
 
 ## 🧭 Périmètre et contexte
