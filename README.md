@@ -3,7 +3,7 @@
 </p>
 
 ## `> quickstart`
-Ce dépôt centralise l'ensemble des travaux réalisés sur **KodeKloud** et sert de point d'entrée vers les différents labs, crash courses, et modules étudiés.
+Ce dépôt centralise l'ensemble des travaux réalisés sur **KodeKloud** et sert de point d'entrée vers les différents labs, crash courses et modules étudiés.
 
 L'organisation privilégie :
 - une approche **modulaire**, avec un dépôt dédié lorsque le module ou le lab le justifie
